@@ -44,8 +44,8 @@ hi Ignore		 								guifg=#444444
 hi Error			guibg=#000000	guifg=#bb0000
 hi Todo				guibg=#aa0006	guifg=#fff300
 hi Operator 	gui=none 			guifg=#00bfff
-hi Function 	 			        guifg=#d5e013
-hi String 		gui=None 			guifg=#bb1000
+hi Function 	 			        guifg=#cbb80a
+hi String 		gui=None 			guifg=#9d0700
 hi Boolean									guifg=#9bcd9b
 
 "hi link Character Constant
